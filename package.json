@@ -1,0 +1,25 @@
+{
+  "name": "temu",
+  "version": "1.0.0",
+  "description": "temu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linxiaoxiaopang/temu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linxiaoxiaopang/temu/issues"
+  },
+  "homepage": "https://github.com/linxiaoxiaopang/temu#readme",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "child_process": "^1.0.2",
+    "node-mitmproxy": "^3.1.1"
+  }
+}
