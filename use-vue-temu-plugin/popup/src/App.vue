@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <button>popup demo1222</button>
+    <button>popup demo</button>
   </div>
 </template>
 
